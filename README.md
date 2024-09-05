@@ -1,0 +1,2 @@
+# SloWeyGPT-discord-bot-js
+ 
