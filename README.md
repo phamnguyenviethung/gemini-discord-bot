@@ -1,2 +1,2 @@
-# SloWeyGPT-discord-bot-js
+# gemini discord
  
